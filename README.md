@@ -3,7 +3,7 @@ The School Board has identified evidence of academic dishonesty, specifically th
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code
+- Software: Python 3.7.6, Jupyter Notebook, Visual Studio Code
 
 ## Summary
 The analysis of the school district data (n = 15 total schools) shows that the district was affected in the following ways:
@@ -12,7 +12,7 @@ The analysis of the school district data (n = 15 total schools) shows that the d
 - Removing the scores doesn't move the needle much.  THS remains a top five school based on overall passing rates.
 - As we only replaced ninth grade scores at one school, THS, there is no impact on math and reading scores for other grades and only a slight impact on ninth grade scores.
 - There is minimal impact to scores by school spending, school size, and school type.  
-- There is a negative correlation between school spending and overall passing rates.  For schools that spents $584/yr per student the overall passing rate was 90% versus 54% for schools that spent between $645 and $675.
+- There is a negative correlation between school spending and overall passing rates.  For schools that spent $584/yr per student the overall passing rate was 90% versus 54% for schools that spent between $645 and $675.
 - There is a negative correlation between overall passing rates and school size.  As school size gets bigger, scores decline.
 - Charter schools (90% passing rate) significantly outperformed district schools (54% passing rate).
 - The avreage reading, average math, and overall passing rates at THS declined slightly.  Ninth grade scores across the district declined very sligthly as a result of removing THS ninth grade scores.  
