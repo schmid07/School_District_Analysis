@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 The School Board has identified evidence of academic dishonesty, specifically the reading and math scores for ninth graders at Thomas High School (THS).  They have asked us to replace the math and reading scores for THS w with NaNs while keeping the rest of the data intacts.  Once removed, they have also asked us to repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.
 
 ## Resources
